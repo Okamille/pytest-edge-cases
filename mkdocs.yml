@@ -1,0 +1,10 @@
+site_name: pytest-edge-cases
+site_description: Handle edge-cases with simple decorator
+site_author: Antoine Gauthier
+
+theme: readthedocs
+
+repo_url: https://github.com/Okamille/pytest-edge-cases
+
+pages:
+- Home: index.md
